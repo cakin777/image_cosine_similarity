@@ -8,5 +8,5 @@ The theory seemed straightforward, so I decided to try it out myself. I took the
 ![tmg1](test_imgs/cropped_image_1.jpg)  ![tmg2](test_imgs/cropped_image_2.jpg)
 cosine similarity : 0.79
 
-![tmg4](test_imgs/cropped_image_4.jpg)  ![tmg5](test_imgs/cropped_image_5.jpg)
+![tmg4](test_imgs/![1000010211](https://github.com/user-attachments/assets/f3b13273-7816-4814-a86a-dbff06c77cfb))  ![tmg5](test_imgs/cropped_image_5.jpg)
 cosine similarity : 0.46
